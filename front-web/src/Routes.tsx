@@ -1,5 +1,4 @@
 import { BrowserRouter, Switch, Route } from "react-router-dom"
-import { resourceLimits } from "worker_threads"
 import Home from "./Home"
 import Navbar from "./Navbar"
 import Orders from "./Orders"
